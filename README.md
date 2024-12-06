@@ -1,1 +1,2 @@
-# IJWQP-FALL2024-SQA
+IJWGP
+Michael Richey
