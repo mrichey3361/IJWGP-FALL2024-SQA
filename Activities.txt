@@ -16,3 +16,9 @@ I integrated forensics on main.py as I thought logging what happens here would h
 
 [What I learned]
 While forensics is very useful for finding out what is going wrong in the program, the program needs to be fully functional to take full advantage of it. If like in my case there is something I am unsure of whether I should alter that is impeding the logging process, I am unable to fully utilize its benefits.
+
+[Continuous Integration]
+I used the same methods in our CI workshop and used Codacy to integrate continuous integration.
+
+[What I learned]
+Codacy simplifies the process of integrating CI and allows easy implementation of it. CI as a whole seems to be a very effective too to ensure proper quality standards are met.
